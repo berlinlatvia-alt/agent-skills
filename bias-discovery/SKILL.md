@@ -1,5 +1,5 @@
 ---
-title: "Bias Discovery Algorithm (Self-Improving)"
+name: "Bias Discovery Algorithm (Self-Improving)"
 version: 1.0.0
 author: margoaigenacc
 category: agent-governance

@@ -1,5 +1,5 @@
 ---
-title: "Product Recognition Skill"
+name: "Product Recognition Skill"
 version: 1.0.0
 author: margoaigenacc
 category: business-intelligence

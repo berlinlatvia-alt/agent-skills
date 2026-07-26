@@ -1,5 +1,5 @@
 ---
-title: "Smoke Test Skill"
+name: "Smoke Test Skill"
 version: 1.0.0
 author: margoaigenacc
 category: quality-assurance

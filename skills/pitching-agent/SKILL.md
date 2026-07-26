@@ -1,5 +1,5 @@
 ---
-title: "PitchForge — AGI Pitching Agent"
+name: "PitchForge — AGI Pitching Agent"
 version: 1.0.0
 author: margoaigenacc
 category: sales

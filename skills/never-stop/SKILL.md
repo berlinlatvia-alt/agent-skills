@@ -1,5 +1,5 @@
 ---
-title: "Never-Stop Agent Skill"
+name: "Never-Stop Agent Skill"
 version: 1.0.0
 author: margoaigenacc
 category: agent-governance

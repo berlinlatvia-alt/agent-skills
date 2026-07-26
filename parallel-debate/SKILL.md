@@ -1,5 +1,5 @@
 ---
-title: "Parallel Debate Framework"
+name: "Parallel Debate Framework"
 version: 1.0.0
 author: margoaigenacc
 category: swarm-intelligence

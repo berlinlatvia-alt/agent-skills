@@ -1,5 +1,5 @@
 ---
-title: "Faulty Thinking Checker"
+name: "Faulty Thinking Checker"
 version: 1.0.0
 author: margoaigenacc
 category: agent-governance

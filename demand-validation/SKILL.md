@@ -1,5 +1,5 @@
 ---
-title: "24-Hour Demand Validation Skill"
+name: "24-Hour Demand Validation Skill"
 version: 1.0.0
 author: margoaigenacc
 category: business-intelligence

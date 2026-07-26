@@ -1,5 +1,5 @@
 ---
-title: "Agent Onboarding Skill"
+name: "Agent Onboarding Skill"
 version: 1.0.0
 author: margoaigenacc
 category: agent-governance
